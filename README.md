@@ -12,8 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=A181-CODER&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=A181-CODER&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=A181-CODER&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=A181-CODER&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
